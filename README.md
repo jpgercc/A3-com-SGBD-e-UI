@@ -9,4 +9,4 @@
 
 Link de instalação do JDBC <a>https://jdbc.postgresql.org/</a>
 
-Link de instalação do JDBC <a>https://www.postgresql.org/</a>
+Link de instalação do PostgreSQL <a>https://www.postgresql.org/</a>
