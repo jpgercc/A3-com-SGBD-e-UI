@@ -188,8 +188,10 @@ public class AppController {
                 stringBuilder.append("Raça: ").append(raca).append("\n");
                 stringBuilder.append("Temperamento: ").append(temperamento).append("\n");
                 stringBuilder.append("Idade: ").append(idade).append("\n");
-                stringBuilder.append("----------------------\n");
+                stringBuilder.append("---------------------------------------------------------\n");
             }
+            stringBuilder.append("Contate 991625320 para adotar seu novo pet! \n");
+            stringBuilder.append("Adoção somente depois do contato e avaliação.");
             JOptionPane.showMessageDialog(null, stringBuilder.toString());
         } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Erro ao listar os pets disponíveis: " + e.getMessage());
