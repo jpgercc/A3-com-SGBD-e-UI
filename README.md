@@ -7,5 +7,6 @@
 4-Substitua os dados na classe "AppControler" para os dados correspondentes aos configurados no seu PostgreSQL.
 ```
 
-Link de instalação do JDBC <a>https://jdbc.postgresql.org/</a>
-Link de instalação do JDBC <a>https://www.postgresql.org/</a>
+<a>Link de instalação do JDBC <a>https://jdbc.postgresql.org/</a>
+
+<a>Link de instalação do JDBC <a>https://www.postgresql.org/</a>
