@@ -1,4 +1,6 @@
-<h4>O programa funciona com gerenciamento de banco de dados, para roda-lo é preciso:</h4>
+<b>Pequeno App construido para gerenciamento de adoção de animais, usando Java <a href='https://www.alura.com.br/artigos/como-criar-interface-grafica-swing-java'>Swing</a>.</b>
+---
+<h3>O programa funciona com gerenciamento de banco de dados, para roda-lo é preciso:</h3>
 
 ```
 1-Instalar PostgreeSQL.
