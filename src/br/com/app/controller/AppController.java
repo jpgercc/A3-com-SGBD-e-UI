@@ -199,9 +199,9 @@ public class AppController {
     }
 
     private Connection getConnection() throws SQLException {
-        String url = "jdbc:postgresql://localhost:5432/adocao"; // Substitua pelo URL do seu banco de dados
-        String user = "postgres"; // Substitua pelo nome de usuário do seu banco de dados
-        String password = "92491043"; // Substitua pela senha do seu banco de dados
+        String url = "YOURDBURL"; // Substitua pelo URL do seu banco de dados
+        String user = "YOURUSER"; // Substitua pelo nome de usuário do seu banco de dados
+        String password = "YOURPASSWORD"; // Substitua pela senha do seu banco de dados
 
         return DriverManager.getConnection(url, user, password);
     }
